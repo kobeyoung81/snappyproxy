@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SnappyVPN</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="connecting">Snappy VPN is connecting...</string>
+    <string name="connected">VPN connected</string>
+    <string name="disconnected">VPN disconnected</string>
+    <string name="address">Address:</string>
+    <string name="port">Port:</string>
+    <string name="connect">Connect</string>
+
+</resources>
